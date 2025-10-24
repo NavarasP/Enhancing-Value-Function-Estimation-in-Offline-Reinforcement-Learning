@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+tqdm
+pandas
+seaborn
+gymnasium
+mujoco
+mujoco-py==2.1.2.14
+git+https://github.com/Farama-Foundation/D4RL.git

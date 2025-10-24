@@ -1,0 +1,1 @@
+try same approch in other RL methods than actor critic methods
